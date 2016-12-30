@@ -1,7 +1,7 @@
 front/node_modules/
 front/elm-stuff/
-front/build/main.js
-back/.env
+back/.env/
+back/static/
 *.pyc
 __pycache__/
 
